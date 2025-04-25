@@ -17,7 +17,7 @@ import edu.gitt.is.magiclibrary.view.BookDetails;
 import edu.gitt.is.magiclibrary.view.MLView;
 
 /**
- * <p>Controlador espec�fico para las vistas de entidades de CAMBIO EN RAMA PRUEBAS Libro</p>
+ * <p>Controlador espec�fico para lasasd asdsviasdasddstas de entidades de CasdasdasdAMBIO EN RAMA PRUEBAS Libro</p>
  * @author Isabel Rom�n
  *
  */
